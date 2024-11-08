@@ -2,7 +2,7 @@
 
 int main() {
     int size;
-    std::cout << "Enter the size of an array: ";
+    std::cout << "Enter the size of an array:";
     std::cin >> size;
 
     int* scores = new int[size];
